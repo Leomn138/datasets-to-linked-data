@@ -1,0 +1,3 @@
+server:
+  context-path: /transformation
+  port: 6000
